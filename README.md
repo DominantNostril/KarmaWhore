@@ -1,6 +1,6 @@
 # KarmaWhore
 
-KarmaWhore is a custom pack for the Guild Wars 2 addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Karma buffs when you're celbrating Wintersday.
+KarmaWhore is a custom pack for the Guild Wars 2 addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Karma buffs when you're celebrating Wintersday.
 
 Icons for Karma buffs are displayed in two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed-out so you can quickly see what needs to be reapplied.
 
