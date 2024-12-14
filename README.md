@@ -10,7 +10,19 @@ Effects are loosely grouped into four sections according to expiration and avail
 ![all active](https://github.com/user-attachments/assets/926fdd2d-9967-4304-9f25-51a1a7e604f2)
 ![partial](https://github.com/user-attachments/assets/8366c8b2-a8de-4b76-bb1e-0b6d39761bba)
 
-All trackable karma buffs that apply to Wintersday activities are included except Voluteer's Blessing (map swap). See the wiki for a [complete list of Karma buffs and sources](https://wiki.guildwars2.com/wiki/Karma#Modifiers). 
+All trackable karma buffs that apply to Wintersday activities are included except Voluteer's Blessing (map swap). These are, in order top-to-bottom, left-to-right:
+* Crowd-Favorite Racer, +15% for 15 m (Complete the race in Divinity's Reach during Wintersday. Removed when you leave the instance. )
+* Guild Karma Banner Boost, +15% for 30 m (Guild Karma and Experience Banner, Guild Heroes Banner)
+* Spirit Banner Boost, +10% for 30 m (Spirit Banner)
+* Guild Karma Boost, +10% no expiration (free from Guild Hall Bartender)
+* Winters Blessing, +10% for 1 h (Reward for Wintersday daily achievement Donation Drive, aka "Orphans.")
+* Community Service Tips, +10% for 1 h (New Kaineng City heart vendor buff, purchased from Elora, Lieutenant Zhao or Strigidae after completion of their respective heart.)
+* 50% Karma Bonus, +50% for 1 h (Bonfire, Candy Corn Gobbler, Karma Booster, Kite Fortune, Extra Life Karma Booster)
+* Candy Cane, +10% for 1-30 m (Candy Cane, stacks)
+* Nourishment, +15% for 30 m (Food, Super Mixed Parfait)
+* Enhancement, +10% for 30 m or 2 hr MF (Various utility consumables)
+
+See the wiki for a [complete list of Karma buffs and sources](https://wiki.guildwars2.com/wiki/Karma#Modifiers). 
 
 Only the highest level of a boost is tracked. Some effects use alternate icons to more easily distinguish them. For example, _Guild Karma Boost_ uses the purple flask icon you see when buying it from the guild bartender.
 
