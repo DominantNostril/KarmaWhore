@@ -8,7 +8,7 @@ Icons for Karma buffs are displayed in two columns that can be dragged anywhere 
 Effects are loosely grouped into four sections according to expiration and availability.
 
 ![all active](https://github.com/user-attachments/assets/926fdd2d-9967-4304-9f25-51a1a7e604f2)
-![partial](https://github.com/user-attachments/assets/8366c8b2-a8de-4b76-bb1e-0b6d39761bba)
+![partial free crop 3](https://github.com/user-attachments/assets/04e816b6-15f0-423e-ad43-803e287b10f3)
 
 All trackable karma buffs that apply to Wintersday activities are included except Voluteer's Blessing (map swap). These are, in order top-to-bottom, left-to-right:
 * Crowd-Favorite Racer, +15% for 15 m (Complete the race in Divinity's Reach during Wintersday. Removed when you leave the instance. )
