@@ -27,4 +27,6 @@ See the wiki for a [complete list of Karma buffs and sources](https://wiki.guild
 Only the highest level of a boost is tracked. Some effects use alternate icons to more easily distinguish them. For example, _Guild Karma Boost_ uses the purple flask icon you see when buying it from the guild bartender.
 
 ## Limitations
-The +15% amulet Enrichment cannot be tracked since it is not an _effect_. Some Wintersday events are treated as PvP instances so KarmaWhore will not display inside those instances.
+* The +15% amulet Enrichment cannot be tracked since it is not an _effect_ 
+* Some Wintersday events are treated as PvP instances so KarmaWhore will not display inside those instances
+* Only the highest (15%) food buff is tracked (some foods give a 10% karma buff)
