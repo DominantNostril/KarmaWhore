@@ -28,5 +28,3 @@ Only the highest level of a boost is tracked. Some effects use alternate icons t
 
 ## Limitations
 The +15% amulet Enrichment cannot be tracked since it is not an _effect_. Some Wintersday events are treated as PvP instances so KarmaWhore will not display inside those instances.
-
-More documentation coming soon. Refer to the [Magic Finder readme](https://github.com/DominantNostril/MagicFinder) for analagous documentation.
