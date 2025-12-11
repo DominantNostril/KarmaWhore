@@ -21,6 +21,10 @@ All trackable karma buffs that apply to Wintersday activities are included excep
 * Candy Cane, +10% for 1-30 m (Candy Cane, stacks)
 * Nourishment, +15% for 30 m (Food, Super Mixed Parfait)
 * Enhancement, +10% for 30 m or 2 hr MF (Various utility consumables)
+  * [Peppermint Oil](https://wiki.guildwars2.com/wiki/Peppermint_Oil) (34187)
+  * [Tin of Fruitcake](https://wiki.guildwars2.com/wiki/Tin_of_Fruitcake) (34211)
+  * [Tuning Icicle](https://wiki.guildwars2.com/wiki/Tuning_Icicle) (34206)
+  * [Snow Diamond Ornament](https://wiki.guildwars2.com/wiki/Snow_Diamond_Ornament) (77727)
 
 See the wiki for a [complete list of Karma buffs and sources](https://wiki.guildwars2.com/wiki/Karma#Modifiers). 
 
